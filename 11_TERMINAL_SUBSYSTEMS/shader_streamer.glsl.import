@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://4k1dxc07io27"
+path="res://.godot/imported/shader_streamer.glsl-8495976255c1b0e311ce9f7ca4b31e93.res"
+
+[deps]
+
+source_file="res://MLAOS-PRIME/11_TERMINAL_SUBSYSTEMS/shader_streamer.glsl"
+dest_files=["res://.godot/imported/shader_streamer.glsl-8495976255c1b0e311ce9f7ca4b31e93.res"]
+
+[params]
+

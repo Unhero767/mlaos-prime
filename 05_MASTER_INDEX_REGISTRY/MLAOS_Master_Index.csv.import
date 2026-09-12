@@ -1,0 +1,19 @@
+[remap]
+
+importer="csv_translation"
+type="Translation"
+uid="uid://rqwpkyimm7s4"
+
+[deps]
+
+files=["res://MLAOS-PRIME/05_MASTER_INDEX_REGISTRY/MLAOS_Master_Index.Domain.translation", "res://MLAOS-PRIME/05_MASTER_INDEX_REGISTRY/MLAOS_Master_Index.Ω.translation", "res://MLAOS-PRIME/05_MASTER_INDEX_REGISTRY/MLAOS_Master_Index.Designation.translation", "res://MLAOS-PRIME/05_MASTER_INDEX_REGISTRY/MLAOS_Master_Index.File.translation", "res://MLAOS-PRIME/05_MASTER_INDEX_REGISTRY/MLAOS_Master_Index.Status.translation"]
+
+source_file="res://MLAOS-PRIME/05_MASTER_INDEX_REGISTRY/MLAOS_Master_Index.csv"
+dest_files=["res://MLAOS-PRIME/05_MASTER_INDEX_REGISTRY/MLAOS_Master_Index.Domain.translation", "res://MLAOS-PRIME/05_MASTER_INDEX_REGISTRY/MLAOS_Master_Index.Ω.translation", "res://MLAOS-PRIME/05_MASTER_INDEX_REGISTRY/MLAOS_Master_Index.Designation.translation", "res://MLAOS-PRIME/05_MASTER_INDEX_REGISTRY/MLAOS_Master_Index.File.translation", "res://MLAOS-PRIME/05_MASTER_INDEX_REGISTRY/MLAOS_Master_Index.Status.translation"]
+
+[params]
+
+compress=1
+delimiter=0
+unescape_keys=false
+unescape_translations=true

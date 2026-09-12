@@ -1,0 +1,15 @@
+[Unit]
+Description=MLAOS-Prime Paraconsistent Daemon
+After=network.target
+
+[Service]
+Type=simple
+User=kennethdallmier
+WorkingDirectory=/Users/kennethdallmier/MLAOS-PRIME/04_LOGIC_AND_ENGINES/mlaos_core
+ExecStart=/usr/bin/python3 ash_archive.py --daemon
+Restart=on-failure
+RestartSec=5
+Environment="MLAOS_ROOT=/Users/kennethdallmier/MLAOS-PRIME"
+
+[Install]
+WantedBy=multi-user.target
